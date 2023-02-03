@@ -1,0 +1,1 @@
+import render_course from"./render_card_courses.js";document.addEventListener("DOMContentLoaded",(()=>{render_course()}));
